@@ -15,6 +15,9 @@ public class Banco {
 	System.out.println(c2.getCodigo() + " - " + c2.getNome());
 	System.out.println(c3.getCodigo() + " - " + c3.getNome());
 	System.out.println(c4.getCodigo() + " - " + c4.getNome());
+	
+
+	System.out.println(c103.getCodigo() + " - " + c103.getNome() + " - " + c103.getNomeResponsavel());
 	}
 
 }
